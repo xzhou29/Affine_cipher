@@ -5,15 +5,15 @@ Commands:
 
 For P1: 
 
-javac HW1_P1.java
+javac affine_cipher.java
 
-Java HW1_P1
+Java affine_cipher
 
 For P2:
 
-javac HW1_P2.java
+javac affine_cipher.java
 
-java HW1_P2
+java affine_cipher
 
 Ciphertext: 
 GWN GANBDJAN HWNDG
