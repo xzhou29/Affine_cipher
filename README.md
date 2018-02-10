@@ -5,10 +5,12 @@ Commands:
 
 For P1: 
 javac HW1_P1.java
+
 Java HW1_P1
 
 For P2:
 javac HW1_P2.java
+
 java HW1_P2
 
 Ciphertext: 
