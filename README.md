@@ -11,7 +11,7 @@ For P2:
 javac HW1_P2.java
 java HW1_P2
 
-Ciphers: 
+Ciphertext: 
 GWN GANBDJAN HWNDG
 ZD EJAZNK WNAN: DBZI
 QARL DFNINGRO ZDI-
