@@ -1,6 +1,6 @@
 // Xin Zhou
 
-class HW1_P1 {
+class affine_cipher {
 	private static final String cipherText = "GWN GANBDJAN HWNDG ZD EJAZNK WNAN:\n" +
 	"DBZI QARL DFNINGRO ZDIBOK GR GWN NBDG-DRJGWNBDG.\n" +
 	"BQGNA GPR KBVD, VRJ PZII QZOK B KNDNAGNK ZDIBOK.\n" +
